@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Deep Learning Applications**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatemafaria142/fatemafaria142](https://github.com/fatemafaria142/fatemafaria142)
+- 👨‍💻 All of my projects are available at [https://github.com/fatemafaria142/fatemafaria142](https://github.com/fatemafaria142?tab=projects)
 
 - 💬 Ask me about **Computer Vision, Multimodal Learning, Natural Language Processing, Generative Adversarial Networks, Deep Learning**
 
