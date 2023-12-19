@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fatema Tuj Johora Faria</h1>
+<h1 align="center">Hello 👋, I'm Fatema Tuj Johora Faria</h1>
 <h3 align="center">A passionate machine learning learner from Bangladesh</h3>
 
 - 🔭 I’m currently working on **MemeSentiNet: Multimodal Sentiment Analysis for Memes**
