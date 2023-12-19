@@ -22,33 +22,6 @@
 </p>
 
 
-
-<div class="container">
-  <div class="left-div">
-    <h3>List on the Left</h3>
-    <ul>
-      <li>Item 1</li>
-      <li>Item 2</li>
-      <li>Item 3</li>
-      <!-- Add more list items as needed -->
-    </ul>
-  </div>
-
-  <div class="right-div">
-    <h3>List on the Right</h3>
-    <ul>
-      <li>Item A</li>
-      <li>Item B</li>
-      <li>Item C</li>
-      <!-- Add more list items as needed -->
-    </ul>
-  </div>
-</div>
-
-
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
