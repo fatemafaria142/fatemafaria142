@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/fatemafaria142/fatemafaria142](https://github.com/fatemafaria142/fatemafaria142)
 
-- ⚡ Fun fact **I am childish**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
