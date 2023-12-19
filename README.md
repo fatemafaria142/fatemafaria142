@@ -23,48 +23,27 @@
 
 
 
+<div class="container">
+  <div class="left-div">
+    <h3>List on the Left</h3>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+      <!-- Add more list items as needed -->
+    </ul>
+  </div>
 
-    .left-div {
-      float: left;
-      width: 50%; /* Adjust width as needed */
-    }
-
-    .right-div {
-      float: right;
-      width: 50%; /* Adjust width as needed */
-    }
-
-    /* Optional: Add styling for the lists */
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
-
-    li {
-      margin-bottom: 5px;
-    }
-
-
-<div class="left-div">
-  <h3>List on the Left</h3>
-  <ul>
-    <li>Item 1</li>
-    <li>Item 2</li>
-    <li>Item 3</li>
-    <!-- Add more list items as needed -->
-  </ul>
+  <div class="right-div">
+    <h3>List on the Right</h3>
+    <ul>
+      <li>Item A</li>
+      <li>Item B</li>
+      <li>Item C</li>
+      <!-- Add more list items as needed -->
+    </ul>
+  </div>
 </div>
-
-<div class="right-div">
-  <h3>List on the Right</h3>
-  <ul>
-    <li>Item A</li>
-    <li>Item B</li>
-    <li>Item C</li>
-    <!-- Add more list items as needed -->
-  </ul>
-</div>
-
 
 
 
