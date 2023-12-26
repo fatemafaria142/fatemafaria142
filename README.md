@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Computer Vision, Multimodal Learning, Natural Language Processing, Generative Adversarial Networks, Deep Learning**
 
-- 📫 How to reach me **fatematujjohorafaria142@gmail.com**
+- 📫 How to reach me **fatema.faria142@gmail.com**
 
 
 
