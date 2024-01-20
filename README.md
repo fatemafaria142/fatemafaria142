@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fatemafaria142?tab=repositories](https://github.com/fatemafaria142?tab=repositories)
 
-- 💬 Ask me about **Computer Vision, Multimodal Learning, Natural Language Processing, Generative Adversarial Networks, Deep Learning**
+- 💬 Ask me about **Natural Language Processing, Large Language Models, Computer Vision, Multimodal Learning, Generative Adversarial Networks, Deep Learning**
 
 - 📫 How to reach me **fatema.faria142@gmail.com**
 
