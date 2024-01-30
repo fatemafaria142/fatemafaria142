@@ -12,17 +12,15 @@
 - 📫 How to reach me **fatema.faria142@gmail.com**
 
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fatema tuj johora faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema tuj johora faria" height="30" width="40" /></a>
 <a href="https://kaggle.com/fatema tuj johora faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatema tuj johora faria" height="30" width="40" /></a>
 </p>
-
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
 
 <h3 align="left">Languages and Tools:</h3>
