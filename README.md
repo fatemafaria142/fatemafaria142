@@ -1,13 +1,13 @@
 <h1 align="center">Hello 👋, I'm Fatema Tuj Johora Faria</h1>
 <h3 align="center">A passionate machine learning learner from Bangladesh</h3>
 
-- 🌱 I’m currently learning **AWS, MLOps**
+- 🌱 Currently on a journey of exploration into the realms of AWS and MLOps!
 
-- 👨‍💻 All of my projects are available at [https://github.com/fatemafaria142?tab=repositories](https://github.com/fatemafaria142?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/fatemafaria142?tab=repositories)
 
 - 💬 Ask me about **Natural Language Processing, Large Language Models, Computer Vision, Multimodal Learning, Generative Adversarial Networks, Deep Learning**
 
-- 📫 How to reach me **fatema.faria142@gmail.com**
+- 📫 Reach out to me at fatema.faria142@gmail.com - I'm all ears for interesting conversations and collaborations!
 
 
 <div align="center">
