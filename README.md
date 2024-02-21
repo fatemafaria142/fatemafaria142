@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **AWS, MLOps**
 
-- 👯 I’m looking to collaborate on **Deep Learning Applications**
-
 - 👨‍💻 All of my projects are available at [https://github.com/fatemafaria142?tab=repositories](https://github.com/fatemafaria142?tab=repositories)
 
 - 💬 Ask me about **Natural Language Processing, Large Language Models, Computer Vision, Multimodal Learning, Generative Adversarial Networks, Deep Learning**
