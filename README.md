@@ -6,8 +6,8 @@
 👨‍💻 All of my projects are available [here](https://github.com/fatemafaria142?tab=repositories).
 
 💬 Ask me about:
-- **Natural Language Processing**
 - **Large Language Models**
+- **Natural Language Processing**
 - **Computer Vision**
 - **Multimodal Learning**
 - **Generative Adversarial Networks**
