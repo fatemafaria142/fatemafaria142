@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Fatema Tuj Johora Faria</h1>
-<h3 align="center">A passionate machine learning learner from Bangladesh</h3>
+<h3 align="center">An enthusiastic practitioner of machine learning from Bangladesh</h3>
 
 🌱 Currently on a journey of exploration into the realms of AWS and MLOps!
 
