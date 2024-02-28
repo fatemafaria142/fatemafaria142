@@ -48,7 +48,6 @@
   
   </p>
 
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemafaria142&show_icons=true&locale=en&layout=compact" alt="fatemafaria142" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemafaria142&" alt="fatemafaria142" /></p>
