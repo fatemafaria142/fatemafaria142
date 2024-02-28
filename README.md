@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Fatema Tuj Johora Faria</h1>
 <h3 align="center">An enthusiastic practitioner of machine learning from Bangladesh</h3>
 
-🌱 Currently on a journey of exploration into the realms of **Reinforcement learning**, **Big Data**, and **LLMOps**!
+🌱 Currently on a journey of exploration into the realms of **Reinforcement Learning with Human Feedback (RLHF)**, **Big Data (Hadoop)**, and **LLMOps**!
 
 👨‍💻 All of my projects are available [here](https://github.com/fatemafaria142?tab=repositories).
 
