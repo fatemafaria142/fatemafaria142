@@ -7,6 +7,8 @@
   Currently on a journey of exploration into the realms of:
 
   - 🤖 **Reinforcement Learning with Human Feedback (RLHF)**
+
+  - 🎯 **Direct Preference Optimization (DPO)**
   
   - 📊 **Big Data (Hadoop)**
   
