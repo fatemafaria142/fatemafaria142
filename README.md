@@ -20,7 +20,7 @@
  - **Large Language Models**
  - **Natural Language Processing**
  - **Computer Vision**
- - **Multimodal Learning**
+ - **Multimodal Deep Learning**
  - **Generative Adversarial Networks**
  - **Deep Learning**
 
