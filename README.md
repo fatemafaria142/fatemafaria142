@@ -14,17 +14,17 @@
   
   - 🛠️ **LLMOps**
 
-👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
+- 👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
 
-💬 Ask me about:
- - **Large Language Models**
- - **Natural Language Processing**
- - **Computer Vision**
- - **Multimodal Deep Learning**
- - **Generative Adversarial Networks**
- - **Deep Learning**
+- 💬 Ask me about:
+     - **Large Language Models**
+     - **Natural Language Processing**
+     - **Computer Vision**
+     - **Multimodal Deep Learning**
+     - **Generative Adversarial Networks**
+     - **Deep Learning**
 
-📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) - I'm all ears for interesting conversations and collaborations!
+- 📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) - I'm all ears for interesting conversations and collaborations!
 
 
 
