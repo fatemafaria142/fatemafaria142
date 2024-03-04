@@ -24,7 +24,7 @@
      - **Generative Adversarial Networks**
      - **Deep Learning**
 
-- 📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) - I'm all ears for interesting conversations and collaborations!
+- 📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) 
 
 
 
