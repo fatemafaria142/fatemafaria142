@@ -9,6 +9,8 @@
   - 🤖 **Reinforcement Learning with Human Feedback (RLHF)**
 
   - 🎯 **Direct Preference Optimization (DPO)**
+    
+  - 👀 **Large vision models (LVMs)**
   
   - 📊 **Big Data (Hadoop)**
   
