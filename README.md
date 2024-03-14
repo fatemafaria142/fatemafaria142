@@ -10,7 +10,7 @@
 
   - 🎯 **Direct Preference Optimization (DPO)**
     
-  - 👀 **Large vision models (LVMs)**
+  - 👀 **Large Vision Models (LVMs)**
   
   - 📊 **Big Data (Hadoop)**
   
