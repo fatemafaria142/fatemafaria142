@@ -20,7 +20,8 @@
 - 👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
 
 - 💬 Ask me about:
-     - **Large Language Models**
+     - **Large Language Models (LLMs)**
+     - **Retrieval-Augmented Generation (RAG)**
      - **Natural Language Processing**
      - **Computer Vision**
      - **Multimodal Deep Learning**
