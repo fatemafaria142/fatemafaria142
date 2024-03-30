@@ -15,7 +15,7 @@
   - 📊 **Big Data (Hadoop)**
   
   - 🛠️ **LLMOps**
-  - ☁️ **Cloud Computing Services (AWS)**
+  - ☁️ **Cloud Computing Services (Microsoft Azure)**
 
 - 👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
 
