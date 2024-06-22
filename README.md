@@ -21,8 +21,10 @@
 
 - 💬 Ask me about:
      - **Large Language Models (LLMs)**
+     - **Large Vision Models (LVMs)**
      - **Retrieval-Augmented Generation (RAG)**
      - **LangChain**
+     - **CrewAI**
      - **Natural Language Processing**
      - **Computer Vision**
      - **Multimodal Deep Learning**
