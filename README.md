@@ -11,9 +11,7 @@
   - 🎯 **Direct Preference Optimization (DPO)**
     
   - 👀 **Large Vision Models (LVM)**
-  
-  - 📊 **Big Data (Hadoop)**
-  
+
   - 🛠️ **LLMOps**
   - ☁️ **Cloud Computing Services (Microsoft Azure)**
 
