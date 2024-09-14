@@ -66,16 +66,14 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
 ## Github Stats
 <div align="center">
     
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemafaria142&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemafaria142&theme=aura_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=default&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=dracula&utcOffset=8)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=apprentice)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatemafaria142&theme=default&card_width=700)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatemafaria142&theme=dracula&card_width=700)](https://git.io/streak-stats)
 
 </div>
-
-
