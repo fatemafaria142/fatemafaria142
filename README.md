@@ -9,10 +9,19 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
 
 ## **Connect with me** 
 <div align="center">
+<a href="https://fatema-faria.github.io">
+    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
+</a>  
 <a href="mailto:fatema.faria142@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
 </a>    
-<a href="https://github.com/Mukaffi28" target="_blank">
+<a href='https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1' target="_blank">
+    <img src='https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+</a>
+<a href='https://www.researchgate.net/profile/Fatema-Faria' target="_blank">
+    <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
+</a>
+<a href="https://github.com/fatemafaria142" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/fatema142/" target="_blank">
