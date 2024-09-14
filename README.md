@@ -63,10 +63,19 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
 </tr></table>  
 </div>
 
+## Github Stats
+<div align="center">
+    
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemafaria142&theme=default)
 
-<br>
-<div align="center"> 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fatemafaria142&show_icons=true&locale=en&layout=compact" alt="fatemafaria142" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=default&utcOffset=8)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fatemafaria142&" alt="fatemafaria142" /></p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=default)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fatemafaria142&theme=default&card_width=700)](https://git.io/streak-stats)
+
 </div>
+
+
