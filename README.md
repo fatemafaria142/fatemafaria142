@@ -1,10 +1,13 @@
+## **Research Interests** 
+
+Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Natural Language Processing, Generative Adversarial Networks, Explainable Artificial Intelligence, Machine Learning, Deep Learning and its applications, Internet of Things (IoT).
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
 
-## Connect with me  
+## **Connect with me** 
 <div align="center">
 <a href="mailto:fatema.faria142@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
@@ -21,7 +24,7 @@
 </div>  
 
 
-## Languages and Tools: 
+## **Languages and Tools**
 <div align="center">  
 <table><tr><td valign="top" width="50%">
 
