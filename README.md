@@ -66,7 +66,6 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
 ## Github Stats
 <div align="center">
     
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fatemafaria142&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=dracula&utcOffset=8)
 
