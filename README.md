@@ -1,14 +1,3 @@
-<h1 align="center">Hello 🙋‍♀️, I'm Fatema Tuj Johora Faria </h1>
-<h3 align="center">An enthusiastic practitioner of machine learning from Bangladesh</h3>
-
-
-- 👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
-
-
-
-- 📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) - I'm all ears for interesting conversations and collaborations!
-
-
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
