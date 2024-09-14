@@ -2,32 +2,9 @@
 <h3 align="center">An enthusiastic practitioner of machine learning from Bangladesh</h3>
 
 
-- 🌱 **Exploration Journey**
-
-  Currently on a journey of exploration into the realms of:
-
-  - 🤖 **Reinforcement Learning with Human Feedback (RLHF)**
-
-  - 🎯 **Direct Preference Optimization (DPO)**
-    
-  - 👀 **Large Vision Models (LVM)**
-
-  - 🛠️ **LLMOps**
-  - ☁️ **Cloud Computing Services (Microsoft Azure)**
-
 - 👨‍💻 **All of my projects are available** [here](https://github.com/fatemafaria142?tab=repositories).
 
-- 💬 Ask me about:
-     - **Large Language Models (LLMs)**
-     - **Large Vision Models (LVMs)**
-     - **Retrieval-Augmented Generation (RAG)**
-     - **LangChain**
-     - **CrewAI**
-     - **Natural Language Processing**
-     - **Computer Vision**
-     - **Multimodal Deep Learning**
-     - **Generative Adversarial Networks**
-     - **Deep Learning**
+
 
 - 📫 Reach out to me at [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com) - I'm all ears for interesting conversations and collaborations!
 
@@ -37,11 +14,23 @@
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fatema tuj johora faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fatema tuj johora faria" height="30" width="40" /></a>
-<a href="https://kaggle.com/fatema tuj johora faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="fatema tuj johora faria" height="30" width="40" /></a>
-</p>
+
+## Connect with me  
+<div align="center">
+<a href="mailto:fatema.faria142@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
+</a>    
+<a href="https://github.com/Mukaffi28" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/fatema142/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/sfariya10" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+</div>  
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
