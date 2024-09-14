@@ -6,7 +6,6 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-
 ## **Connect with me** 
 <div align="center">
 <a href="https://fatema-faria.github.io">
