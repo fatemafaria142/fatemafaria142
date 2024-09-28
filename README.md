@@ -8,7 +8,7 @@ Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Na
 
 ## **Connect with me** 
 <div align="center">
-<a href="https://fatema-faria.github.io">
+<a href="https://fatemafaria142.github.io/">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
 </a>  
 <a href="mailto:fatema.faria142@gmail.com" target="_blank">
