@@ -1,6 +1,15 @@
-## **Research Interests** 
+## **Research Interests**
 
-Large Language Models, Large Vision Models, Computer Vision, Medical Imaging, Natural Language Processing, Generative Adversarial Networks, Explainable Artificial Intelligence, Machine Learning, Deep Learning and its applications.
+- Large Language Models
+- Large Vision Models
+- Computer Vision
+- Medical Imaging
+- Natural Language Processing
+- Generative Adversarial Networks
+- Explainable Artificial Intelligence
+- Machine Learning
+- Deep Learning and its applications
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
