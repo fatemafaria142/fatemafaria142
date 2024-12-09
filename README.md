@@ -4,7 +4,7 @@ I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/
 ## **Research Interests**
 
 - Large Language Models  
-- Large Vision Models  
+- Large Multimodal Models  
 - Computer Vision  
 - Medical Image Analysis
 - Natural Language Processing  
