@@ -3,16 +3,15 @@ I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/
 
 ## **Research Interests**
 
-- Large Language Models  
-- Vision Language Models
-- Large Vision Models
+- Large Language Models (LLMs)  
+- Vision Language Models (VLMs)
+- Large Vision Models (LVMs)
 - Computer Vision  
+- Natural Language Processing 
 - Medical Image Analysis
-- Natural Language Processing  
 - Generative Adversarial Networks  
-- Explainable Artificial Intelligence  
-- Machine Learning  
-- Deep Learning and its applications
+- Explainable AI
+- Machine Learning and its applications
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
