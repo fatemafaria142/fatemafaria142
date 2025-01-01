@@ -1,5 +1,5 @@
 Hi there 🙋‍♀️  
-I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at [Dexian Bangladesh Ltd.](https://www.linkedin.com/company/dexiansolutions/) I completed my Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+I am Fatema Tuj Johora Faria, currently working as an Application Developer (AI/ML) at [Dexian Bangladesh Ltd.](https://www.linkedin.com/company/dexiansolutions/) I obtained my Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 
 ## **Research Interests**
 
