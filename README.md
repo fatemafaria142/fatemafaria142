@@ -1,17 +1,17 @@
 Hi there 🙋‍♀️  
-I am **Fatema Tuj Johora Faria**, currently working as an Application Developer (AI/ML) at [Dexian Bangladesh Ltd.](https://www.linkedin.com/company/dexiansolutions/) I obtained my Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
+I am **Fatema Tuj Johora Faria**, currently working as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited.](https://www.linkedin.com/company/dexiansolutions/) I obtained my Bachelor's degree in Computer Science and Engineering from Ahsanullah University of Science and Technology.
 
 ## **Research Interests**
 
-- Large Language Models (LLMs)  
-- Vision Language Models (VLMs)
+- Large Language Models (LLMs)
+- LLM Agents
+- NLP for Social Good
+- Vision-Language Models (VLMs)
+- Multimodal AI
+- Trustworthy AI
+- Multimodal Agents
 - Large Vision Models (LVMs)
-- Computer Vision  
-- Natural Language Processing 
-- Medical Image Analysis
-- Generative Adversarial Networks  
-- Explainable AI
-- Machine Learning and its applications
+- Computer Vision
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
