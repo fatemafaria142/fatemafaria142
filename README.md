@@ -5,10 +5,10 @@ I am **Fatema Tuj Johora Faria**, currently working as an Application Developer 
 
 - Large Language Models (LLMs)
 - LLM Agents
+- Large Multimodal Models (LMMs)
 - NLP for Social Good
 - NLP for Low-Resource Languages
 - Vision-Language Models (VLMs)
-- Multimodal AI
 - Trustworthy AI
 - Multimodal Agents
 - Large Vision Models (LVMs)
