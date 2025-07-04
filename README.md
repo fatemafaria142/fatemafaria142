@@ -57,9 +57,10 @@ I am primarily interested in the following areas, where I actively engage in res
 🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage  
 🔹 **Others:** Vector Database, Apache Airflow, Docker, OpenCV, GitHub, GitHub Copilot  
 
+## Favorite Quote
 
-
-
+> "The future of AI is not about creating machines that think like humans, but about building systems that learn from data and improve over time."  
+> — Geoffrey Hinton
 
 
 ## Github Stats
