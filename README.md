@@ -5,17 +5,18 @@ I am **Fatema Tuj Johora Faria**, currently working as an Application Developer 
 
 I am primarily interested in the following areas, where I actively engage in research and development:
 
-- *Large Language Models (LLMs)*
-- *LLM Agents*
-- *Large Multimodal Models (LMMs)*
-- *NLP for Social Good*
-- *NLP for Low-Resource Languages*
-- *AI in Healthcare*
-- *Vision-Language Models (VLMs)*
-- *Trustworthy AI*
-- *Multimodal Agents*
-- *Large Vision Models (LVMs)*
-- *Computer Vision*
+◉ *Large Language Models (LLMs)*  
+◉ *LLM Agents*  
+◉ *Large Multimodal Models (LMMs)*  
+◉ *NLP for Social Good*  
+◉ *NLP for Low-Resource Languages*  
+◉ *AI in Healthcare*  
+◉ *Vision-Language Models (VLMs)*  
+◉ *Trustworthy AI*  
+◉ *Multimodal Agents*  
+◉ *Large Vision Models (LVMs)*  
+◉ *Computer Vision*
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
