@@ -1,7 +1,7 @@
 Hi there 🙋‍♀️  
 I am **Fatema Tuj Johora Faria**, currently working as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited](https://www.linkedin.com/company/dexiansolutions/). I obtained my Bachelor's degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology](https://www.aust.edu/cse).
 
-## **Primary Research Interests**
+## **Primary Research Interests 🎯**
 
 I am primarily interested in the following areas, where I actively engage in research and development:
 
@@ -22,7 +22,7 @@ I am primarily interested in the following areas, where I actively engage in res
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
-## **Connect with me** 
+## **Connect with me 🌐** 
 <div align="center">
 <a href="https://fatemafaria142.github.io/">
     <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
@@ -48,7 +48,7 @@ I am primarily interested in the following areas, where I actively engage in res
 </div>  
 
 
-## Technical Skills
+## **Technical Skills 🧰**
 🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++  
 🔹 **Web Development:** HTML5, CSS3, JavaScript, FastAPI, Flask, React JS, Streamlit  
 🔹 **Database:** MySQL, MongoDB  
@@ -57,13 +57,13 @@ I am primarily interested in the following areas, where I actively engage in res
 🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage  
 🔹 **Others:** Vector Database, Apache Airflow, Docker, OpenCV, GitHub, GitHub Copilot  
 
-## Favorite Quote
+## Favorite Quote ✨
 
 > "The future of AI is not about creating machines that think like humans, but about building systems that learn from data and improve over time."  
 > — Geoffrey Hinton
 
 
-## Github Stats
+## Github Stats 📊
 <div align="center">
     
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura)
