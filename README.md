@@ -1,8 +1,11 @@
 Hi there 🙋‍♀️  
-I am **Fatema Tuj Johora Faria**, currently working as an Application Developer (AI/ML) at [Dexian (Bangladesh) Limited](https://www.linkedin.com/company/dexiansolutions/). In my professional role, I focus on designing, developing, and deploying generative AI-based applications that address real-world challenges across diverse industries. My expertise includes building proof-of-concept prototypes, architecting intelligent pipelines, and translating cutting-edge research into production-ready solutions. I obtained my Bachelor's degree in Computer Science and Engineering from [Ahsanullah University of Science and Technology](https://www.aust.edu/cse).
+<p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at 
+  <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>. In my professional role, I focus on designing, developing, and deploying generative AI-based applications that address real-world challenges across diverse industries. My expertise includes building proof-of-concept prototypes, architecting intelligent pipelines, and translating cutting-edge research into production-ready solutions. I obtained my Bachelor's degree in Computer Science and Engineering from 
+  <a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>.
+</p>
 
 ## **Primary Research Interests 🎯**
-
 I am primarily interested in the following areas, where I actively engage in research and development:
 
 ◉ *Large Language Models (LLMs)*  
