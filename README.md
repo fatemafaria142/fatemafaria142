@@ -10,14 +10,14 @@ I am primarily interested in the following areas, where I actively engage in res
 
 ◉ *Large Language Models (LLMs)*  
 ◉ *LLM Agents*  
+◉ *Human–LLM Interaction* 
 ◉ *Large Multimodal Models (LMMs)*  
 ◉ *NLP for Social Good*  
 ◉ *NLP for Low-Resource Languages*  
 ◉ *AI in Healthcare*  
 ◉ *Vision-Language Models (VLMs)*  
 ◉ *Trustworthy AI*  
-◉ *Multimodal Agents*  
-◉ *Large Vision Models (LVMs)*  
+◉ *Multimodal Agents*   
 ◉ *Computer Vision*
 
 
