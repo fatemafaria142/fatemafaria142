@@ -7,18 +7,18 @@ Hi there 🙋‍♀️
 
 ## **Primary Research Interests 🎯**
 I am primarily interested in the following areas, where I actively engage in research and development:
+- **Large Language Models (LLMs)**
+- **LLM Agents**
+- **Human–LLM Interaction**
+- **Large Multimodal Models (LMMs)**
+- **NLP for Social Good**
+- **NLP for Low-Resource Languages**
+- **AI in Healthcare**
+- **Vision-Language Models (VLMs)**
+- **Trustworthy AI**
+- **Multimodal Agents**
+- **Computer Vision**
 
-◉ *Large Language Models (LLMs)*  
-◉ *LLM Agents*  
-◉ *Human–LLM Interaction* 
-◉ *Large Multimodal Models (LMMs)*  
-◉ *NLP for Social Good*  
-◉ *NLP for Low-Resource Languages*  
-◉ *AI in Healthcare*  
-◉ *Vision-Language Models (VLMs)*  
-◉ *Trustworthy AI*  
-◉ *Multimodal Agents*   
-◉ *Computer Vision*
 
 
 <div align="center">
