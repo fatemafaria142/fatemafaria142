@@ -56,7 +56,7 @@ I am primarily interested in the following areas, where I actively engage in res
 🔹 **Web Development:** HTML5, CSS3, JavaScript, FastAPI, Flask, React JS, Streamlit  
 🔹 **Database:** MySQL, MongoDB  
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
-🔹 **LLM Application Frameworks:** LangChain, LangGraph, LangSmith, LlamaIndex, DeepEval, CrewAI  
+🔹 **LLM Application Frameworks:** LangChain, LangGraph, LangSmith, LlamaIndex, Ragas, DeepEval, CrewAI  
 🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards  
 🔹 **Others:** Vector Database, Apache Airflow, Docker, OpenCV, GitHub, GitHub Copilot  
 
