@@ -7,19 +7,17 @@ Hi there 🙋‍♀️
 
 ## **Primary Research Interests 🎯**
 I am primarily interested in the following areas, where I actively engage in research and development:
-- **Large Language Models (LLMs)**
-- **LLM Agents**
-- **Human–LLM Interaction**
-- **Large Multimodal Models (LMMs)**
-- **NLP for Social Good**
-- **NLP for Low-Resource Languages**
-- **AI in Healthcare**
-- **Vision-Language Models (VLMs)**
-- **Trustworthy AI**
-- **Multimodal Agents**
+- **Large Language Models (LLMs)**  
+- **Large Multimodal Models (LMMs)**  
+- **LLM Agents**  
+- **Multimodal AI Agents**  
+- **Human–LLM Interaction**  
+- **NLP for Social Good**  
+- **NLP for Low-Resource Languages**  
+- **AI in Healthcare**  
+- **Vision-Language Models (VLMs)**  
+- **Trustworthy AI**  
 - **Computer Vision**
-
-
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
