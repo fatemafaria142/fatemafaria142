@@ -48,15 +48,18 @@ I am primarily interested in the following areas, where I actively engage in res
 </a>
 </div>  
 
-
 ## **Technical Skills 🧰**
+
 🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++  
 🔹 **Web Development:** HTML5, CSS3, JavaScript, FastAPI, Flask, React JS, Streamlit  
 🔹 **Database:** MySQL, MongoDB  
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
-🔹 **LLM Application Frameworks:** LangChain, LangGraph, LangSmith, LlamaIndex, Ragas, DeepEval, CrewAI  
-🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards  
-🔹 **Others:** Vector Database, Apache Airflow, Docker, OpenCV, GitHub, GitHub Copilot  
+🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex  
+🔹 **LLM Evaluation Frameworks:** LangSmith, Ragas, DeepEval  
+🔹 **Vector Database:** ChromaDB, FAISS  
+🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL  
+🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, OpenCV, GitHub, GitHub Copilot, Apache Airflow, Hugging Face Transformers
+
 
 ## Favorite Quote ✨
 
