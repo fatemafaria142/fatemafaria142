@@ -55,10 +55,10 @@ I am primarily interested in the following areas, where I actively engage in res
 🔹 **Database:** MySQL, MongoDB  
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
 🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex  
-🔹 **LLM Evaluation Frameworks:** LangSmith, Ragas, DeepEval  
+🔹 **LLM Evaluation Frameworks:** LangSmith, Langfuse, Ragas, DeepEval  
 🔹 **Vector Database:** ChromaDB, FAISS  
-🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL  
-🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, OpenCV, GitHub, GitHub Copilot, Apache Airflow, Hugging Face Transformers
+🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL, Microsoft Bot Services
+🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, GitHub, Github Copilot, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
 
 
 ## Favorite Quote ✨
