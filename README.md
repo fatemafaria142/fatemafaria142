@@ -1,8 +1,13 @@
-Hi there 🙋‍♀️  
 <p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
-  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as a <strong style="color:#1e40af;">Senior Application Developer</strong> at 
-  <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>. In my professional role, I focus on designing, developing, and deploying generative AI-based applications that address real-world challenges across diverse industries. My expertise includes building proof-of-concept prototypes, architecting intelligent pipelines, and translating cutting-edge research into production-ready solutions. I obtained my Bachelor's degree in Computer Science and Engineering from 
-  <a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>.
+  Hi there 🙋‍♀️<br><br>
+  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as an <strong style="color:#1e40af;">AI Engineer II</strong> at 
+  <a href="https://www.linkedin.com/company/asthait/" style="color:#1e40af;">Astha.IT</a>. In my professional role, I focus on automating everything that is possible in the internal company work culture.<br>
+  
+  Previously, I worked as a <strong style="color:#1e40af;">Senior Application Developer</strong> at 
+  <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>, where I developed proof-of-concept prototypes, architected intelligent AI pipelines, and contributed to production-ready AI solutions, gaining hands-on experience with <strong>Azure OpenAI</strong>, <strong>Azure SQL</strong>, <strong>Azure Blob Storage</strong>, AlloyDB, and scalable deployments via <strong>Azure Web App</strong>. I built modular, domain-specific AI pipelines optimized for low-latency inference and production-grade performance.<br>
+  
+  I earned my Bachelor's degree in Computer Science and Engineering from 
+  <a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>, which laid the foundation for my passion in AI and software development.
 </p>
 
 ## **Primary Research Interests 🎯**
