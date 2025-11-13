@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>, where I developed proof-of-concept prototypes, architected intelligent AI pipelines, and contributed to production-ready AI solutions, gaining hands-on experience with <strong>Azure OpenAI</strong>, <strong>Azure SQL</strong>, <strong>Azure Blob Storage</strong>, <strong>AlloyDB</strong> for high-performance vector search, and scalable deployments via <strong>Azure Web App</strong>. I built modular, domain-specific AI pipelines optimized for low-latency inference and production-grade performance.<br>
   
   I earned my Bachelor's degree in Computer Science and Engineering from 
-  <a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>, which laid the foundation for my passion in AI and software development.
+<a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>, which laid the foundation for my passion for generative AI application development.
 </p>
 
 ## **Primary Research Interests 🎯**
