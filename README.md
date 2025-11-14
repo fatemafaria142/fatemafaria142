@@ -16,7 +16,7 @@ I am primarily interested in the following areas, where I actively engage in res
 - **Large Multimodal Models (LMMs)**  
 - **LLM Agents**  
 - **Multimodal AI Agents**  
-- **Human–LLM Interaction**  
+- **Human–Computer Interaction**  
 - **NLP for Social Good**  
 - **NLP for Low-Resource Languages**  
 - **AI in Healthcare**  
