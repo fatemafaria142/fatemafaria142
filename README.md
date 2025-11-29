@@ -57,14 +57,16 @@ I am primarily interested in the following areas, where I actively engage in res
 ## **Technical Skills 🧰**
 
 🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++  
-🔹 **Web Development:** HTML5, CSS3, JavaScript, FastAPI, Flask, React JS, Streamlit  
-🔹 **Database:** MySQL, MongoDB  
+🔹 **Web Development:** JavaScript, TypeScript, Tailwind CSS, FastAPI, Flask, React, Streamlit  
+🔹 **Database:** MySQL, PostgreSQL, MongoDB  
 🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
-🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex  
+🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex, LlamaAgents  
 🔹 **LLM Evaluation Frameworks:** LangSmith, Langfuse, Ragas, DeepEval  
-🔹 **Vector Database:** ChromaDB, FAISS  
-🔹 **Cloud Services:** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL, Microsoft Bot Services  
-🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, GitHub, Github Copilot, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
+🔹 **Vector Database:** AlloyDB for PostgreSQL (pgvector extension), ChromaDB, FAISS  
+🔹 **Cloud Services (Azure):** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL  
+🔹 **Cloud Services (AWS):** Elastic Container Registry (ECR), App Runner, Elastic Compute Cloud (EC2), S3 Buckets  
+🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, Jira Boards, GitHub, Github Copilot, Microsoft Bot Services, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
+
 
 
 ## Favorite Quote ✨
