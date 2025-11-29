@@ -1,8 +1,8 @@
 <p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
   Hi there 🙋‍♀️<br><br>
-  I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as an <strong style="color:#1e40af;">AI Engineer II</strong> at 
-  <a href="https://www.linkedin.com/company/asthait/" style="color:#1e40af;">Astha.IT</a>. In my professional role, I focus on automating everything that is possible in the internal company work culture.<br>
-  
+I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as an <strong style="color:#1e40af;">AI Engineer II</strong> at 
+<a href="https://www.linkedin.com/company/asthait/" style="color:#1e40af;">Astha.IT</a>. In my professional role, I build <strong style="color:#1e40af;">LLM Agents</strong> and <strong style="color:#1e40af;">Multimodal AI Agents</strong> to automate complex workflows within internal company processes, using <strong style="color:#1e40af;">AWS cloud services</strong> for scalable and efficient deployment. I also guide interns on <strong style="color:#1e40af;">requirements analysis</strong>, <strong style="color:#1e40af;">code quality checks</strong>, and following <strong style="color:#1e40af;">best practices</strong> to deliver high-quality AI systems.
+
   Previously, I worked as a <strong style="color:#1e40af;">Senior Application Developer</strong> at 
   <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>, where I developed proof-of-concept prototypes, architected intelligent AI pipelines, and contributed to production-ready AI solutions, gaining hands-on experience with <strong>Azure OpenAI</strong>, <strong>Azure SQL</strong>, <strong>Azure Blob Storage</strong>, <strong>AlloyDB</strong> for high-performance vector search, and scalable deployments via <strong>Azure Web App</strong>. I built modular, domain-specific AI pipelines optimized for low-latency inference and production-grade performance.<br>
   
@@ -12,17 +12,18 @@
 
 ## **Primary Research Interests 🎯**
 I am primarily interested in the following areas, where I actively engage in research and development:
-- **Large Language Models (LLMs)**  
-- **Large Multimodal Models (LMMs)**  
-- **LLM Agents**  
-- **Multimodal AI Agents**  
-- **Human–Computer Interaction**  
-- **NLP for Social Good**  
-- **NLP for Low-Resource Languages**  
-- **AI in Healthcare**  
-- **Vision-Language Models (VLMs)**  
-- **Trustworthy AI**  
+- **Large Language Models (LLMs)**
+- **Large Multimodal Models (LMMs)**
+- **LLM Agents**
+- **Multimodal AI Agents**
+- **Human–Computer Interaction**
+- **AI in Healthcare**
+- **NLP for Social Good**
+- **NLP for Low-Resource Languages**
+- **Vision-Language Models (VLMs)**
+- **Trustworthy AI**
 - **Computer Vision**
+
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
