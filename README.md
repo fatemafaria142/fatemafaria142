@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Fatema Tuj Johora Faria 👋</h1>
 
 <p align="center">
-  <strong>AI Engineer II · AI Agents · Multimodal AI · AI Safety · Trustworthy AI </strong>
+  <strong>AI Engineer II · AI Agents · Multimodal AI · AI Safety · AI Security ·Trustworthy AI </strong>
 </p>
 
 ---
@@ -136,10 +136,6 @@ I am interested in developing AI systems that can reason reliably, operate auton
 
 <a href="https://www.linkedin.com/in/fatema142/">
 <img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/fatemafaria142">
-<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.kaggle.com/sfariya10">
