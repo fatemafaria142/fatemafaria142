@@ -1,89 +1,186 @@
-<p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
-  Hi there 🙋‍♀️<br><br>
-I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as an <strong style="color:#1e40af;">AI Engineer II</strong> at 
-<a href="https://www.linkedin.com/company/asthait/" style="color:#1e40af;">Astha.IT</a>. In my professional role, I build <strong style="color:#1e40af;">LLM Agents</strong> and <strong style="color:#1e40af;">Multimodal AI Agents</strong> to automate complex workflows within internal company processes, using <strong style="color:#1e40af;">AWS cloud services</strong> for scalable and efficient deployment. I also guide interns on <strong style="color:#1e40af;">requirements analysis</strong>, <strong style="color:#1e40af;">code quality checks</strong>, and following <strong style="color:#1e40af;">best practices</strong> to deliver high-quality AI systems. I also specialize in designing user-friendly interfaces that simplify AI interactions and provide an intuitive experience for users.
-
-  Previously, I worked as a <strong style="color:#1e40af;">Senior Application Developer</strong> at 
-  <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>, where I developed proof-of-concept prototypes, architected intelligent AI pipelines, and contributed to production-ready AI solutions, gaining hands-on experience with <strong>Azure OpenAI</strong>, <strong>Azure SQL</strong>, <strong>Azure Blob Storage</strong>, <strong>AlloyDB</strong> for high-performance vector search, and scalable deployments via <strong>Azure Web App</strong>. I built modular, domain-specific AI pipelines optimized for low-latency inference and production-grade performance.<br>
-  
-  I earned my Bachelor's degree in Computer Science and Engineering from 
-<a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>, which laid the foundation for my passion for generative AI application development.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=1e40af" alt="Profile Views"/>
 </p>
 
-## **Primary Research Interests 🎯**
-I am primarily interested in the following areas, where I actively engage in research and development:
-- **Large Language Models (LLMs)**
-- **Large Multimodal Models (LMMs)**
-- **LLM Agents**
-- **Multimodal AI Agents**
-- **Human–AI Interaction**
-- **AI in Healthcare**
-- **NLP for Social Good**
-- **NLP for Low-Resource Languages**
-- **Vision-Language Models (VLMs)**
-- **Trustworthy AI**
-- **Computer Vision**
+<h1 align="center">Hi, I'm Fatema Tuj Johora Faria 👋</h1>
 
+<p align="center">
+  <strong>AI Engineer II · AI Agents · Multimodal AI · AI Safety · Trustworthy AI </strong>
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+<p style="text-align:justify; font-family:'Segoe UI', sans-serif; color:black;">
+
+I am <strong style="color:#1e40af;">Fatema Tuj Johora Faria</strong>, currently working as an <strong style="color:#1e40af;">AI Engineer II</strong> at <a href="https://www.linkedin.com/company/asthait/" style="color:#1e40af;">Astha.IT</a>. I build <strong>Agentic AI applications</strong> for internal automation and client-facing use cases, with a focus on <strong>LLM Agents, Retrieval-Augmented Generation (RAG), and Model Context Protocol (MCP)</strong>. My work spans the full AI application lifecycle, from solution design and development to deployment.
+
+Previously, I worked as a <strong>Senior Application Developer</strong> at <a href="https://www.linkedin.com/company/dexiansolutions/" style="color:#1e40af;">Dexian (Bangladesh) Limited</a>, where I developed <strong>Generative AI solutions</strong> based on client and stakeholder requirements. I collaborated with cross-functional teams to translate business requirements into scalable software solutions and contributed through <strong>code reviews, technical guidance, and knowledge-sharing</strong> with junior developers.
+
+I have hands-on experience with <strong>AWS, Google Cloud Platform (GCP), and Microsoft Azure</strong> for AI application deployment, cloud infrastructure, and production environments.
+
+I earned my Bachelor's degree in Computer Science and Engineering from <a href="https://www.aust.edu/cse" style="color:#1e40af;">Ahsanullah University of Science and Technology</a>.
+
+</p>
+
+---
+
+## **Research Interests 🎯**
+
+I am interested in developing AI systems that can reason reliably, operate autonomously, and remain safe and dependable in real-world environments.
+
+### **AI Reasoning & Autonomy**
+
+* **LLM Reasoning:** Exploring how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.
+* **AI Agents:** Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.
+* **Multimodal AI:** Investigating how multimodal models can integrate and reason across diverse modalities (text + images) to improve contextual understanding and decision-making.
+
+### **Foundations of Dependable AI**
+
+* **AI Safety:** Developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and real-world conditions.
+* **AI Security:** Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.
+* **Trustworthy AI:** Advancing AI systems that promote fairness, explainability, and reliability across diverse environments.
+
+### **Domain-Specific AI Applications**
+
+* **AI for Databases:** Developing AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
+* **AI for Social Good:** Building accessible and scalable AI solutions that address real-world societal challenges and deliver meaningful impact.
+
+---
+
+## 🧰 Technical Skills
+
+<table>
+<tr>
+<td><strong>Programming</strong></td>
+<td>Python · Java · C++</td>
+</tr>
+
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>PyTorch · TensorFlow · Keras · OpenCV · NumPy · SciPy · Pandas</td>
+</tr>
+
+<tr>
+<td><strong>LLM & Agents</strong></td>
+<td>LangChain · LangGraph · LlamaIndex · LlamaAgents · RAG · MCP</td>
+</tr>
+
+<tr>
+<td><strong>LLM Evaluation</strong></td>
+<td>LangSmith · Langfuse · Ragas · DeepEval</td>
+</tr>
+
+<tr>
+<td><strong>Web & APIs</strong></td>
+<td>FastAPI · React · JavaScript · TypeScript · Tailwind CSS · WebSocket</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>PostgreSQL · MySQL · MongoDB · AlloyDB · pgvector</td>
+</tr>
+
+<tr>
+<td><strong>Vector Databases</strong></td>
+<td>AlloyDB (pgvector) · ChromaDB · Milvus</td>
+</tr>
+
+<tr>
+<td><strong>Microsoft Azure</strong></td>
+<td>Azure OpenAI · Azure SQL · Azure App Service · Azure Blob Storage · Azure Functions · Azure Boards</td>
+</tr>
+
+<tr>
+<td><strong>AWS</strong></td>
+<td>ECR · App Runner · EC2 · S3</td>
+</tr>
+
+<tr>
+<td><strong>Google Cloud</strong></td>
+<td>Google Cloud Storage · App Engine · Compute Engine</td>
+</tr>
+
+<tr>
+<td><strong>Tools & Platforms</strong></td>
+<td>Docker · Apache Airflow · Jira · Microsoft Bot Services</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=fatemafaria142&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
 
-## **Connect with me 🌐** 
-<div align="center">
 <a href="https://fatemafaria142.github.io/">
-    <img src="https://img.shields.io/badge/website-blue?style=for-the-badge&logo=homeadvisor&logoColor=white">
-</a>  
-<a href="mailto:fatema.faria142@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="email" style="margin-bottom: 5px;" />
-</a>    
-<a href='https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1' target="_blank">
-    <img src='https://img.shields.io/badge/Google%20Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
+<img src="https://img.shields.io/badge/Website-1e40af?style=for-the-badge&logo=google-chrome&logoColor=white">
 </a>
-<a href='https://www.researchgate.net/profile/Fatema-Faria' target="_blank">
-    <img src='https://img.shields.io/badge/ResearchGate-100000?style=for-the-badge&logo=researchgate&logoColor=white'>
+
+<a href="mailto:fatema.faria142@gmail.com">
+<img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-<a href="https://github.com/fatemafaria142" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+
+<a href="mailto:ftj.faria@asthait.com">
+<img src="https://img.shields.io/badge/Official%20Email-1e40af?style=for-the-badge&logo=microsoftoutlook&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/fatema142/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://scholar.google.com/citations?user=LEken_4AAAAJ&hl=en&authuser=1">
+<img src="https://img.shields.io/badge/Google%20Scholar-0181FF?style=for-the-badge&logo=GoogleScholar&logoColor=white">
 </a>
-<a href="https://www.kaggle.com/sfariya10" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+
+<a href="https://www.researchgate.net/profile/Fatema-Faria">
+<img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white">
 </a>
-</div>  
 
-## **Technical Skills 🧰**
+<a href="https://www.linkedin.com/in/fatema142/">
+<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-🔹 **Programming Languages:** Python (NumPy, SciPy, Matplotlib, Pandas, Seaborn), Java, C++  
-🔹 **Web Development:** JavaScript, TypeScript, Tailwind CSS, FastAPI, Flask, React, Streamlit  
-🔹 **Database:** MySQL, PostgreSQL, MongoDB  
-🔹 **Deep Learning Frameworks:** TensorFlow, Keras, PyTorch  
-🔹 **LLM Application Frameworks:** LangChain, LangGraph, LlamaIndex, LlamaAgents  
-🔹 **LLM Evaluation Frameworks:** LangSmith, Langfuse, Ragas, DeepEval  
-🔹 **Vector Database:** AlloyDB for PostgreSQL (pgvector extension), ChromaDB, FAISS  
-🔹 **Cloud Services (Azure):** Azure OpenAI, Azure SQL Database, Azure App Service, Azure Blob Storage, Azure Boards, Azure Functions, AlloyDB for PostgreSQL  
-🔹 **Cloud Services (AWS):** Elastic Container Registry (ECR), App Runner, Elastic Compute Cloud (EC2), S3 Buckets  
-🔹 **Others:** Prompt Engineering, Context Engineering, Docker, CrewAI, Jira Boards, GitHub, Github Copilot, Microsoft Bot Services, OpenCV, WebSocket, Apache Airflow, Hugging Face Transformers
+<a href="https://github.com/fatemafaria142">
+<img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
-
-
-## Favorite Quote ✨
-
-> "The future of AI is not about creating machines that think like humans, but about building systems that learn from data and improve over time."  
-> — Geoffrey Hinton
-
-
-## Github Stats 📊
-<div align="center">
-    
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=dracula&utcOffset=8)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=apprentice)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fatemafaria142&theme=dracula&card_width=700)](https://git.io/streak-stats)
+<a href="https://www.kaggle.com/sfariya10">
+<img src="https://img.shields.io/badge/Kaggle-44BAE8?style=for-the-badge&logo=kaggle&logoColor=white">
+</a>
 
 </div>
+
+---
+
+## 💬 Favorite Quote
+
+> *"The future of AI is not about creating machines that think like humans, but about building systems that learn from data and improve over time."*
+> — **Geoffrey Hinton**
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=dracula&utcOffset=8" />
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=apprentice" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=apprentice" />
+
+<br>
+
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=fatemafaria142&theme=dracula&card_width=700" alt="GitHub Streak"/>
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <i>Open to research collaborations, technical discussions, and interesting ideas in AI.</i>
+</p>
