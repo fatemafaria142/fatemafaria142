@@ -157,26 +157,23 @@ I am interested in developing AI systems that can reason reliably, operate auton
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fatemafaria142&theme=aura" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=aura" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=dracula&utcOffset=8" />
+<br><br>
 
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fatemafaria142&theme=apprentice" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=apprentice" />
-
-<br>
-
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=fatemafaria142&theme=dracula&card_width=700" alt="GitHub Streak"/>
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fatemafaria142&theme=apprentice" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fatemafaria142&theme=aura&utcOffset=6" width="48%" />
 
 </div>
 
 ---
 
-<p align="center">
-  <i>Open to research collaborations, technical discussions, and interesting ideas in AI.</i>
-</p>
+## 🤝 Let's Collaborate!
+
+I am always excited to collaborate, exchange ideas, and explore new research directions. I welcome opportunities for research collaborations, technical discussions, and interesting conversations in Artificial Intelligence.
+
+📧 **Feel free to reach out:**
+
+* **Personal:** [fatema.faria142@gmail.com](mailto:fatema.faria142@gmail.com)
+* **Official:** [ftj.faria@asthait.com](mailto:ftj.faria@asthait.com)
