@@ -42,11 +42,9 @@ I am interested in developing AI systems that can reason reliably, operate auton
 * **AI Security:** Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.
 * **Trustworthy AI:** Advancing AI systems that promote fairness, explainability, and reliability across diverse environments.
 
-### **Domain-Specific AI Applications**
-
-* **AI for Databases:** Developing AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
-* **AI for Social Good:** Building accessible and scalable AI solutions that address real-world societal challenges and deliver meaningful impact.
-
+### **Domain-Specific AI**
+* **Vision-Language Models for Medical Imaging:** Developing clinically reliable AI systems for medical image understanding, detection, segmentation, and visual grounding.
+* **AI for Databases:** Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
 ---
 
 ## 🧰 Technical Skills
