@@ -52,59 +52,58 @@ I am interested in developing AI systems that can reason reliably, operate auton
 
 <table>
   <tr>
-    <th align="left" width="28%">Category</th>
+    <th align="left" width="30%">Category</th>
     <th align="left">Technologies & Tools</th>
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>Python · Java · C++ · JavaScript · TypeScript</td>
-  </tr>
-  <tr>
-    <td><strong>AI / ML Frameworks</strong></td>
-    <td>PyTorch · TensorFlow · Keras · OpenCV · Scikit-learn</td>
+    <td>Python · Java · C++</td>
   </tr>
   <tr>
     <td><strong>Data Analysis & Visualization</strong></td>
-    <td>Pandas · NumPy · SciPy · Matplotlib · Seaborn</td>
+    <td>Pandas · NumPy · SciPy · Scikit-learn · Matplotlib · Seaborn</td>
   </tr>
   <tr>
-    <td><strong>LLMs & AI Agents</strong></td>
-    <td>LangChain · LangGraph · LlamaIndex · LlamaAgents · RAG · MCP</td>
+    <td><strong>Deep Learning & Computer Vision</strong></td>
+    <td>TensorFlow · Keras · PyTorch · OpenCV</td>
   </tr>
   <tr>
-    <td><strong>LLM Evaluation</strong></td>
-    <td>LangSmith · Langfuse · Ragas · DeepEval</td>
+    <td><strong>LLM Application Frameworks</strong></td>
+    <td>LangChain · LangGraph · LlamaIndex</td>
   </tr>
   <tr>
-    <td><strong>Web & APIs</strong></td>
-    <td>FastAPI · React · JavaScript · TypeScript · Tailwind CSS · WebSocket</td>
+    <td><strong>LLM Evaluation & Observability</strong></td>
+    <td>LangSmith · Langfuse · RAGAS · DeepEval</td>
+  </tr>
+  <tr>
+    <td><strong>Web Development & APIs</strong></td>
+    <td>JavaScript · TypeScript · React · Tailwind CSS · FastAPI · WebSocket</td>
   </tr>
   <tr>
     <td><strong>Databases</strong></td>
-    <td>PostgreSQL · MySQL · MongoDB · AlloyDB · pgvector</td>
+    <td>MySQL · PostgreSQL · MongoDB · AlloyDB · Azure SQL Database · Cloud SQL</td>
   </tr>
   <tr>
     <td><strong>Vector Databases</strong></td>
-    <td>ChromaDB · Milvus</td>
+    <td>pgvector · Milvus</td>
   </tr>
   <tr>
     <td><strong>Microsoft Azure</strong></td>
-    <td>Azure OpenAI · Azure SQL · Azure App Service · Azure Blob Storage · Azure Functions · Azure Boards</td>
+    <td>Azure OpenAI · Azure Blob Storage · Azure App Service</td>
   </tr>
   <tr>
     <td><strong>AWS</strong></td>
-    <td>Amazon ECR · App Runner · EC2 · S3</td>
+    <td>Amazon ECR · Amazon EC2 · Amazon S3 · Amazon SES</td>
   </tr>
   <tr>
     <td><strong>Google Cloud</strong></td>
-    <td>Google Cloud Storage · App Engine · Compute Engine</td>
+    <td>Google Cloud Storage · Cloud Run</td>
   </tr>
   <tr>
     <td><strong>Tools & Platforms</strong></td>
-    <td>Docker · Apache Airflow · Jira · Microsoft Bot Services</td>
+    <td>Docker · Microsoft Bot Framework</td>
   </tr>
 </table>
-
 
 ---
 
