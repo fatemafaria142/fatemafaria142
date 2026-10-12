@@ -43,7 +43,7 @@ I am interested in developing AI systems that can reason reliably, operate auton
 * **Trustworthy AI:** Advancing AI systems that promote fairness, explainability, and reliability across diverse environments.
 
 ### **Domain-Specific AI**
-* **Vision-Language Models for Medical Imaging:** Developing clinically reliable AI systems for medical image understanding, detection, segmentation, and visual grounding.
+* **Vision-Language Models for Social Good:** Developing reliable AI systems for visual understanding, object detection, image segmentation, and visual grounding to address practical societal challenges.
 * **AI for Databases:** Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
 ---
 
