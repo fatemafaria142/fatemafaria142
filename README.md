@@ -47,64 +47,64 @@ I am interested in developing AI systems that can reason reliably, operate auton
 * **AI for Databases:** Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
 ---
 
+
 ## 🧰 Technical Skills
 
 <table>
-<tr>
-<td><strong>Programming</strong></td>
-<td>Python · Java · C++</td>
-</tr>
-
-<tr>
-<td><strong>AI / ML</strong></td>
-<td>PyTorch · TensorFlow · Keras · OpenCV · NumPy · SciPy · Pandas</td>
-</tr>
-
-<tr>
-<td><strong>LLM & Agents</strong></td>
-<td>LangChain · LangGraph · LlamaIndex · LlamaAgents · RAG · MCP</td>
-</tr>
-
-<tr>
-<td><strong>LLM Evaluation</strong></td>
-<td>LangSmith · Langfuse · Ragas · DeepEval</td>
-</tr>
-
-<tr>
-<td><strong>Web & APIs</strong></td>
-<td>FastAPI · React · JavaScript · TypeScript · Tailwind CSS · WebSocket</td>
-</tr>
-
-<tr>
-<td><strong>Databases</strong></td>
-<td>PostgreSQL · MySQL · MongoDB · AlloyDB · pgvector</td>
-</tr>
-
-<tr>
-<td><strong>Vector Databases</strong></td>
-<td>AlloyDB (pgvector) · ChromaDB · Milvus</td>
-</tr>
-
-<tr>
-<td><strong>Microsoft Azure</strong></td>
-<td>Azure OpenAI · Azure SQL · Azure App Service · Azure Blob Storage · Azure Functions · Azure Boards</td>
-</tr>
-
-<tr>
-<td><strong>AWS</strong></td>
-<td>ECR · App Runner · EC2 · S3</td>
-</tr>
-
-<tr>
-<td><strong>Google Cloud</strong></td>
-<td>Google Cloud Storage · App Engine · Compute Engine</td>
-</tr>
-
-<tr>
-<td><strong>Tools & Platforms</strong></td>
-<td>Docker · Apache Airflow · Jira · Microsoft Bot Services</td>
-</tr>
+  <tr>
+    <th align="left" width="28%">Category</th>
+    <th align="left">Technologies & Tools</th>
+  </tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>Python · Java · C++ · JavaScript · TypeScript</td>
+  </tr>
+  <tr>
+    <td><strong>AI / ML Frameworks</strong></td>
+    <td>PyTorch · TensorFlow · Keras · OpenCV · Scikit-learn</td>
+  </tr>
+  <tr>
+    <td><strong>Data Analysis & Visualization</strong></td>
+    <td>Pandas · NumPy · SciPy · Matplotlib · Seaborn</td>
+  </tr>
+  <tr>
+    <td><strong>LLMs & AI Agents</strong></td>
+    <td>LangChain · LangGraph · LlamaIndex · LlamaAgents · RAG · MCP</td>
+  </tr>
+  <tr>
+    <td><strong>LLM Evaluation</strong></td>
+    <td>LangSmith · Langfuse · Ragas · DeepEval</td>
+  </tr>
+  <tr>
+    <td><strong>Web & APIs</strong></td>
+    <td>FastAPI · React · JavaScript · TypeScript · Tailwind CSS · WebSocket</td>
+  </tr>
+  <tr>
+    <td><strong>Databases</strong></td>
+    <td>PostgreSQL · MySQL · MongoDB · AlloyDB · pgvector</td>
+  </tr>
+  <tr>
+    <td><strong>Vector Databases</strong></td>
+    <td>ChromaDB · Milvus</td>
+  </tr>
+  <tr>
+    <td><strong>Microsoft Azure</strong></td>
+    <td>Azure OpenAI · Azure SQL · Azure App Service · Azure Blob Storage · Azure Functions · Azure Boards</td>
+  </tr>
+  <tr>
+    <td><strong>AWS</strong></td>
+    <td>Amazon ECR · App Runner · EC2 · S3</td>
+  </tr>
+  <tr>
+    <td><strong>Google Cloud</strong></td>
+    <td>Google Cloud Storage · App Engine · Compute Engine</td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>Docker · Apache Airflow · Jira · Microsoft Bot Services</td>
+  </tr>
 </table>
+
 
 ---
 
