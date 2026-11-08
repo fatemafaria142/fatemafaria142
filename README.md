@@ -60,10 +60,6 @@ I am interested in developing AI systems that can reason reliably, operate auton
     <td>Python · Java · C++</td>
   </tr>
   <tr>
-    <td><strong>Data Analysis & Visualization</strong></td>
-    <td>Pandas · NumPy · SciPy · Scikit-learn · Matplotlib · Seaborn</td>
-  </tr>
-  <tr>
     <td><strong>Deep Learning & Computer Vision</strong></td>
     <td>TensorFlow · Keras · PyTorch · OpenCV</td>
   </tr>
