@@ -28,8 +28,8 @@ I am interested in developing AI systems that can reason reliably, operate auton
 
 <table>
 <tr>
-<td>• Large Language Models (LLMs)</td>
-<td>• Vision-Language Models (VLMs)</td>
+<td>• Large Language Models</td>
+<td>• Vision-Language Models</td>
 </tr>
 <tr>
 <td>• AI Agents</td>
