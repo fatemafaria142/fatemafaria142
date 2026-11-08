@@ -4,10 +4,6 @@
 
 <h1 align="center">Hi, I'm Fatema Tuj Johora Faria 👋</h1>
 
-<p align="center">
-  <strong>AI Engineer II · AI Agents · Multimodal AI · AI Safety · AI Security ·Trustworthy AI </strong>
-</p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -30,21 +26,22 @@ I earned my Bachelor's degree in Computer Science and Engineering from <a href="
 
 I am interested in developing AI systems that can reason reliably, operate autonomously, and remain safe and dependable in real-world environments.
 
-### **AI Reasoning & Autonomy**
+<table>
+<tr>
+<td>• Large Language Models (LLMs)</td>
+<td>• Vision-Language Models (VLMs)</td>
+</tr>
+<tr>
+<td>• AI Agents</td>
+<td>• Trustworthy AI</td>
+</tr>
+<tr>
+<td>• AI Security</td>
+<td>• AI Safety</td>
+</tr>
+</table>
 
-* **LLM Reasoning:** Exploring how large language models can achieve reliable, structured, and multi-step reasoning for tackling challenging real-world scenarios.
-* **AI Agents:** Examining how AI agents can plan, use tools, collaborate, and adapt to orchestrate complex tasks in dynamic environments.
-* **Multimodal AI:** Investigating how multimodal models can integrate and reason across diverse modalities (text + images) to improve contextual understanding and decision-making.
 
-### **Foundations of Dependable AI**
-
-* **AI Safety:** Developing AI systems that remain safe, robust, and controllable under uncertainty, unexpected inputs, and real-world conditions.
-* **AI Security:** Defending language models and AI agents against adversarial attacks, prompt injection, and malicious inputs.
-* **Trustworthy AI:** Advancing AI systems that promote fairness, explainability, and reliability across diverse environments.
-
-### **Domain-Specific AI**
-* **Vision-Language Models for Social Good:** Developing reliable AI systems for visual understanding, object detection, image segmentation, and visual grounding to address practical societal challenges.
-* **AI for Databases:** Building AI systems that translate natural language into SQL, reason over database schemas, and enable more intuitive access to structured data across diverse use cases.
 ---
 
 
