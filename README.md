@@ -85,7 +85,7 @@ I am interested in developing AI systems that can reason reliably, operate auton
     <td>Google Cloud Storage · Cloud Run · Cloud SQL</td>
   </tr>
   <tr>
-    <td><strong>Other Technologies</strong></td>
+    <td><strong>Others</strong></td>
     <td>PostgreSQL · JavaScript · TypeScript · React · Docker · Microsoft Bot Framework · OpenCV · WebSocket · Redis</td>
   </tr>
 </table>
