@@ -54,47 +54,39 @@ I am interested in developing AI systems that can reason reliably, operate auton
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>Python · Java · C++</td>
+    <td>Python (Pandas · NumPy · SciPy · Seaborn) · Java · C++</td>
   </tr>
   <tr>
-    <td><strong>Deep Learning & Computer Vision</strong></td>
-    <td>TensorFlow · Keras · PyTorch · OpenCV</td>
+    <td><strong>Deep Learning Frameworks</strong></td>
+    <td>TensorFlow · Keras · PyTorch</td>
   </tr>
   <tr>
     <td><strong>LLM Application Frameworks</strong></td>
-    <td>LangChain · LangGraph · LlamaIndex</td>
+    <td>LangChain · LangGraph · LlamaIndex · CrewAI · OpenAI Agent SDK · Claude Agent SDK</td>
   </tr>
   <tr>
     <td><strong>LLM Evaluation & Observability</strong></td>
     <td>LangSmith · Langfuse · RAGAS · DeepEval</td>
   </tr>
   <tr>
-    <td><strong>Web Development & APIs</strong></td>
-    <td>JavaScript · TypeScript · React · Tailwind CSS · FastAPI · WebSocket</td>
-  </tr>
-  <tr>
-    <td><strong>Databases</strong></td>
-    <td>MySQL · PostgreSQL · MongoDB · AlloyDB · Azure SQL Database · Cloud SQL</td>
-  </tr>
-  <tr>
     <td><strong>Vector Databases</strong></td>
-    <td>pgvector · Milvus</td>
+    <td>Milvus · ChromaDB · Qdrant · PostgreSQL (pgvector)</td>
   </tr>
   <tr>
     <td><strong>Microsoft Azure</strong></td>
-    <td>Azure OpenAI · Azure Blob Storage · Azure App Service</td>
+    <td>Azure AI Foundry · Azure SQL Database · Azure Blob Storage · Azure App Service</td>
   </tr>
   <tr>
-    <td><strong>AWS</strong></td>
+    <td><strong>Amazon Web Services (AWS)</strong></td>
     <td>Amazon ECR · Amazon EC2 · Amazon S3 · Amazon SES</td>
   </tr>
   <tr>
-    <td><strong>Google Cloud</strong></td>
-    <td>Google Cloud Storage · Cloud Run</td>
+    <td><strong>Google Cloud Platform (GCP)</strong></td>
+    <td>Google Cloud Storage · Cloud Run · Cloud SQL</td>
   </tr>
   <tr>
-    <td><strong>Tools & Platforms</strong></td>
-    <td>Docker · Microsoft Bot Framework</td>
+    <td><strong>Other Technologies</strong></td>
+    <td>PostgreSQL · JavaScript · TypeScript · React · Docker · Microsoft Bot Framework · OpenCV · WebSocket · Redis</td>
   </tr>
 </table>
 
