@@ -44,7 +44,6 @@ I am interested in developing AI systems that can reason reliably, operate auton
 
 ---
 
-
 ## 🧰 Technical Skills
 
 <table>
@@ -54,7 +53,7 @@ I am interested in developing AI systems that can reason reliably, operate auton
   </tr>
   <tr>
     <td><strong>Programming Languages</strong></td>
-    <td>Python (Pandas · NumPy · SciPy · Seaborn) · Java · C++</td>
+    <td>Python (Pandas · NumPy · SciPy · Seaborn) · Java · C++ · JavaScript · TypeScript</td>
   </tr>
   <tr>
     <td><strong>Deep Learning Frameworks</strong></td>
@@ -86,9 +85,10 @@ I am interested in developing AI systems that can reason reliably, operate auton
   </tr>
   <tr>
     <td><strong>Others</strong></td>
-    <td>PostgreSQL · JavaScript · TypeScript · React · Docker · Microsoft Bot Framework · OpenCV · WebSocket · Redis</td>
+    <td>Hugging Face · LLM Fine-tuning · OpenCV · PostgreSQL · React · Docker · Microsoft Bot Framework · WebSocket · Redis</td>
   </tr>
 </table>
+
 
 ---
 
